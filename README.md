@@ -6,7 +6,7 @@ I like building things end to end — from a Docker-composed backend to a virtua
 
 🔭 Currently building: my personal portfolio
 🌱 Learning: cybersecurity fundamentals and cloud infrastructure
-💬 Ask me about: full-stack dev, VMware virtualization, or LLM integration
+💬 Ask me about: VMware virtualization, or LLM integration
 🌍 Trilingual: French (native) · Dutch (advanced) · English (working proficiency)
 📫 Reach me: rbenalyech@gmail.com · LinkedIn · Portfolio
 Featured projects
